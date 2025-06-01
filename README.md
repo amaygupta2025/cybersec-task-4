@@ -35,12 +35,16 @@ Configure and test basic firewall rules using **Windows Defender Firewall with A
 
 All screenshots are stored in the screenshots-task-4 folder:
 
-inbound_rules_part1.jpg	:                       Initial list of inbound rules
-inbound_rule_block_telnet_list.jpg:             New rule visible in the list
-block_telnet_properties_general.jpg:          	General tab of the rule
-block_telnet_properties_ports.jpg:            	Protocols and Ports tab showing port 23
-telnet_test_blocked_port23.jpg:                 Telnet test showing connection failed
-inbound_rules_after_removal.jpg:                Rules list after deleting the rule
+##  Screenshots
+
+| Filename                              | Description                                 |
+|---------------------------------------|---------------------------------------------|
+| `inbound_rules_part1.jpg`             | Initial list of inbound rules               |
+| `inbound_rule_block_telnet_list.jpg`  | New rule visible in the list                |
+| `block_telnet_properties_general.jpg` | General tab of the rule                     |
+| `block_telnet_properties_ports.jpg`   | Protocols and Ports tab showing port 23     |
+| `telnet_test_blocked_port23.jpg`      | Telnet test showing connection failed       |
+| `inbound_rules_after_removal.jpg`     | Rules list after deleting the rule          |
 
 
 
