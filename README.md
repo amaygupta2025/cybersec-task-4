@@ -2,18 +2,18 @@
 
 # Task 4: Setup and Use a Firewall on Windows/Linux
 
-## 🛠 Objective
+##  Objective
 
 Configure and test basic firewall rules using **Windows Defender Firewall with Advanced Security** to block and allow specific network traffic.
 
 
-## 🖥 Platform
+##  Platform
 
 - **Operating System**: Windows 10/11
 - **Tool Used**: Windows Defender Firewall (wf.msc)
 
 
-## 🔧 Steps Performed
+##  Steps Performed
 
 1. Opened 'wf.msc' to access firewall settings.
 2. Viewed and documented current **Inbound Rules**.
@@ -23,7 +23,7 @@ Configure and test basic firewall rules using **Windows Defender Firewall with A
 6. Removed the rule to restore original firewall state.
 
 
-## 🔍 Firewall Concepts
+##  Firewall Concepts
 
 - **Firewall**: A system that monitors and controls network traffic based on security rules.
 - **Inbound Rule**: Controls traffic coming *into* your system.
